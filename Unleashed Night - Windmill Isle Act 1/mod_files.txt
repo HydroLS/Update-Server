@@ -1,3 +1,14 @@
-add disk/bb3/#Application.ar.00
-add disk/bb3/#Application.arl
+add disk/bb/#ghz200.ar.00
+add disk/bb/#ghz200.arl
+add disk/bb/ghz_cmn.ar.00
+add disk/bb/ghz_cmn.ar.01
+add disk/bb/ghz_cmn.ar.02
+add disk/bb/ghz_cmn.ar.03
+add disk/bb/ghz_cmn.ar.04
+add disk/bb/ghz_cmn.ar.05
+add disk/bb/ghz_cmn.arl
+add disk/bb/Packed/ghz200/ghz200.ar.00
+add disk/bb/Packed/ghz200/ghz200.ar.01
+add disk/bb/Packed/ghz200/ghz200.ar.02
+add disk/bb/Packed/ghz200/ghz200.arl
 add mod.ini
