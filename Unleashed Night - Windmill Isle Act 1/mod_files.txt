@@ -11,4 +11,6 @@ add disk/bb/Packed/ghz200/ghz200.ar.00
 add disk/bb/Packed/ghz200/ghz200.ar.01
 add disk/bb/Packed/ghz200/ghz200.ar.02
 add disk/bb/Packed/ghz200/ghz200.arl
+add disk/bb3/#Application.ar.00
+add disk/bb3/#Application.arl
 add mod.ini
