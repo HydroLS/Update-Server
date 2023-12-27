@@ -1,5 +1,5 @@
 ## Unleashed Night - Windmill Isle Act 1 V1.25
- - Slight version update.
+ - Update to Update Server based files.
 
 ## Unleashed Night - Windmill Isle Act 1 V1.2
  - Fixed broken model.
