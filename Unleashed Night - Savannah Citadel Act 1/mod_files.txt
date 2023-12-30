@@ -1,3 +1,7 @@
+add disk/bb/#cpz200.ar.00
+add disk/bb/#cpz200.arl
+add disk/bb/cpz200.ar.00
+add disk/bb/cpz200.arl
 add disk/bb/cpz_cmn.ar.00
 add disk/bb/cpz_cmn.ar.01
 add disk/bb/cpz_cmn.ar.02
@@ -9,4 +13,5 @@ add disk/bb/Packed/cpz200/cpz200.ar.00
 add disk/bb/Packed/cpz200/cpz200.ar.01
 add disk/bb/Packed/cpz200/cpz200.ar.02
 add disk/bb/Packed/cpz200/cpz200.arl
+add Codes.hmm
 add mod.ini
